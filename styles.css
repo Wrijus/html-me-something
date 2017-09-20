@@ -1,0 +1,22 @@
+body{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+header,
+footer {
+    background-color:grey;
+}
+
+header,
+footer{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+h3{
+    text
+}
